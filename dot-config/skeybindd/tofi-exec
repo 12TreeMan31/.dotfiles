@@ -1,0 +1,3 @@
+#!/bin/bash
+
+tofi-drun --drun-launch=true
